@@ -1,2 +1,4 @@
 # TProgramacionE2_G2
-Maquina expendedora
+##Maquina expendedora
+
+Repositorio Proyecto Maquina Expendedora :)
